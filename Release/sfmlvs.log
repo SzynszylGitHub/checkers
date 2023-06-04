@@ -1,0 +1,158 @@
+﻿  sfmlvs.cpp
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(346,33): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(346,23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(463,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(463,28): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(528,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(528,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(579,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(647,86): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(647,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(650,86): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(650,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(653,86): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(653,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(707,87): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(707,80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(724,88): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(724,64): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(797,91): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(797,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(814,92): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(814,68): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(971,102): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\sfmlvs.cpp(971,90): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  1 of 427 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  sfmlvs.vcxproj -> C:\Users\zezol\Desktop\moje\c++\visual\sfmlvs warcaby 10x10\x64\Release\sfmlvs.exe
